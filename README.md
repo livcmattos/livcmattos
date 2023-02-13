@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Data Analysis
 - 💻 I’m currently learning Data Engineering
-- 🚀 I’m interested in analytical enginneer and business inteligence engineer positions
+- 🚀 I’m interested in data analyst, analytical enginneer and business inteligence engineer positions
 - 📩 You can contact me by my email or add me on Linkedin 😊
 
 <!---
